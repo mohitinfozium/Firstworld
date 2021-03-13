@@ -68,3 +68,4 @@ public class Bird : MonoBehaviour
         private set;
     }
 }
+//adding comment in last line to learn git and github, learning is the key
