@@ -2,6 +2,7 @@ using UnityEngine;
 using System.Collections;
 using Assets.Scripts;
 using System;
+//learning git and github now, then after we will go for c# Scripting
 
 [RequireComponent(typeof(Rigidbody2D))]
 public class Bird : MonoBehaviour
